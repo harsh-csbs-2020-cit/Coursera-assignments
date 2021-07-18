@@ -5,12 +5,11 @@
 }
 body{
     font-family:'Montserrat','Raleway','Roboto',sans-serif; 
-  background-color: #000;
+  background-color: rgb(194, 207, 200);
   } 
   .title{
     text-align: center;
-    color: aliceblue;
-    text-shadow: 3px 3px 5px black;
+    color: rgb(12, 12, 12);
   }
   .row{
     width: 100%;
@@ -31,7 +30,7 @@ body{
     background-color:#cceccc;
     margin: 15px;
     padding: 25px;
-    border: 3px solid #000];
+    border: 1px solid #000;
   }
   .R p{
     margin-top: 18px;
@@ -45,8 +44,8 @@ body{
     right: 0px;
     background: green; 
     padding: 6px 90px;
-    border-left: 2px solid #000;
-    border-bottom: 2px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
   }
   #R-1{
     background-color: #0ca139;
